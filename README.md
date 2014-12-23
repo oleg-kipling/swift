@@ -1,4 +1,4 @@
 swift
 =====
 
-Apple Swift language experiments
+Apple Swift programing language experiments
